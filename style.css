@@ -12,6 +12,7 @@ h1 {
 .head_img{
     display:flex;
     justify-content: space-around;
+    text-align: center;
 }
 
 .principle p{
