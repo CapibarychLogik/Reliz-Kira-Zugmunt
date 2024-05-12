@@ -9,6 +9,11 @@ h1 {
     color: #ffd71a;
 }
 
+.head_img{
+    display:flex;
+    justify-content: space-around;
+}
+
 .principle p{
     color: #ffd71a;
 }
